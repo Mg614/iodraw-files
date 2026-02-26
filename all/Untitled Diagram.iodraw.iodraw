@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="937" dy="-1024" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1968" dy="-330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
           <mxGeometry x="543" y="2643" width="204" height="66" as="geometry" />
         </mxCell>
         <mxCell id="oFmVbCUYXItvkET77S_E-61" value="阶段二: 执行与记录" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="417" y="2753.5" width="199" height="49" as="geometry" />
+          <mxGeometry x="423" y="2759" width="199" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oFmVbCUYXItvkET77S_E-62" value="选择一名幼儿, 开始倾听" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="407" y="2858" width="231" height="49" as="geometry" />
@@ -272,9 +272,6 @@
               <mxPoint x="655" y="4684" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="oFmVbCUYXItvkET77S_E-118" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="423" y="2748" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
