@@ -26,7 +26,7 @@
           <mxGeometry x="543" y="2643" width="204" height="66" as="geometry" />
         </mxCell>
         <mxCell id="oFmVbCUYXItvkET77S_E-61" value="阶段二: 执行与记录" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="423" y="2759" width="199" height="49" as="geometry" />
+          <mxGeometry x="417" y="2753.5" width="199" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oFmVbCUYXItvkET77S_E-62" value="选择一名幼儿, 开始倾听" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="407" y="2858" width="231" height="49" as="geometry" />
@@ -274,7 +274,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oFmVbCUYXItvkET77S_E-118" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="2630" width="120" height="60" as="geometry" />
+          <mxGeometry x="423" y="2748" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
